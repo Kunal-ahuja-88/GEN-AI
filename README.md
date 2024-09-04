@@ -1,0 +1,1 @@
+Built a Chat with PDF model using Langchain , Google Gemini and vector database to upload and chat with multiple PDF's  and it will give relevant answers from PDF. App is running with the help of Streamlit
